@@ -1,0 +1,45 @@
+body{    
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    font-size: 20pt;
+    
+}
+h1{
+    padding-top: 2%;
+    font-weight: 900;
+}
+.introduce{
+    background: transparent;
+}
+#temperature{
+    font-size: 50pt;
+}
+.main{
+    
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("images/aerial-shot-beautiful-tree-forest-covered-with-fog-bled-slovenia.jpg");
+    background-size: cover;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+
+#location{
+    background: linear-gradient(rgba(131, 131, 1rgba(195, 195, 195, 0.7),0,0,0.7));
+}
+
+#weather_now{
+    text-align: center;
+}
+.text{
+    position: absolute;
+    top:40%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+footer{
+    margin-top: 30%;
+}
+
+/* #picture{
+    display: inline;
+} */
